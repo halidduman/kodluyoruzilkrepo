@@ -5,7 +5,7 @@ bu repo [kodluyoruz](https://app.patika.dev/courses/git/odev1) Front-End eğitim
 # Installation 
 Öncelikle Projeyi clonelayın.
 
-git clone https://github.com/Guinerve18/kodluyoruzilkrepo.git
+    git clone https://github.com/halidduman/kodluyoruzilkrepo.git
 
 # Usage
 Projeyi cloneladıktan sonra visual studio code programını açınız.
@@ -14,3 +14,7 @@ Linux için:
 ```
 cd kodluyoruzilkrepo code .
 ```
+# Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
